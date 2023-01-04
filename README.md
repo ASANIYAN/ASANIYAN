@@ -24,5 +24,5 @@ In addition to my technical skills, I am also a detail-oriented developer who is
 
 Whether I am working on a small project or a large-scale application, I am committed to delivering high-quality results that meet the needs of my clients. I am excited to continue learning and growing as a developer, and I am always looking for new opportunities to use my skills to create meaningful and impactful solutions.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASANIYAN&hide=javascript,css,scss,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
