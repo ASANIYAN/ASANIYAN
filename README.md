@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Asaniyan Ayomide, a Front End Web Developer with an eye for design.
 
-As a front-end developer with a year of experience in user interface design, I have a strong foundation in HTML, CSS, and JavaScript. I also have experience with modern technologies such as SASS, Typescript, React, and Redux. I am a problem solver who is always looking for the best solution to any challenge, and I am not afraid to learn new tools in order to get the job done.
+As a front-end developer with 2 years of experience in user interface design, I have a strong foundation in HTML, CSS, and JavaScript. I also have experience with modern technologies such as SASS, Tailwind, Typescript, React, and Redux. I am a problem solver who is always looking for the best solution to any challenge, and I am not afraid to learn new tools in order to get the job done.
 
 In addition to my technical skills, I am also a detail-oriented developer who is dedicated to creating pixel perfect designs. I have a passion for creating intuitive and user-friendly interfaces that provide an excellent user experience.
 
