@@ -18,9 +18,13 @@ I treat every screen as a promise to the user. If a number is wrong, or a state 
 
 ## 💼 Experience
 
-I've spent my career building frontend systems for products where the interface carries real weight: fintech dashboards handling live transaction data, healthtech tools running in clinics with unreliable internet, and online storefronts that are a business's main sales channel.
+I've worked as a frontend engineer across fintech, healthtech, and online retail, building the interfaces those businesses run on day to day.
 
-Across these roles, the pattern has stayed the same. Own the interface end to end. Build architecture other engineers can build on. Work closely with backend teams on workflows where a UI bug isn't cosmetic. It's a wrong balance, a missed prescription, a lost sale.
+- Built and owned dashboards handling live transaction data for a product used by 1,000+ people
+- Built a real time system for clinics and pharmacies, keeping it usable on slow, unreliable internet
+- Built a storefront that helped grow a business's inbound sales 3x
+
+I usually end up owning the frontend architecture, not just individual features, and working closely with backend engineers on workflows where a bug in the UI means real money or real data going wrong.
 
 ---
 
