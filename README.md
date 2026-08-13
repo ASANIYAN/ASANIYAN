@@ -32,7 +32,7 @@ I'm moving deeper into backend and infrastructure work: networking and protocols
 
 ## 💡 Why It Matters
 
-Understanding the full stack means I catch problems before they reach the user: a slow query before it becomes a slow page, a race condition before it becomes a wrong balance. I bring that same care to every project. Build it right the first time, because someone is trusting it with their data or their money.
+I build things people rely on with their data or their money. Understanding both the frontend and backend helps me catch problems earlier and build systems that hold up under real use.
 
 I'm open to collaborating on fullstack or backend heavy projects.
 
